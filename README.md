@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Rent a Car Project - Frontend](https://github.com/cumalitezcan/CarRental-Frontend)
 
-- 🌱 I’m currently learning **.Net Core & Angular**
+- 🌱 I’m currently learning **Vue Js**
 
 
 
