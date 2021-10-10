@@ -3,12 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cumalitezcan&label=Profile%20views&color=0e75b6&style=flat" alt="cumalitezcan" /> </p>
 
-- 🔭 I’m currently working on [Rent a Car Project - Backend](https://github.com/cumalitezcan/ReCapProject)
-
-- 🔭 I’m currently working on [Rent a Car Project - Frontend](https://github.com/cumalitezcan/CarRental-Frontend)
+- 🔭 I’m currently working on [HRMS](https://github.com/cumalitezcan/HrmsV2)
 
 - 🌱 I’m currently learning **Vue Js**
-
 
 
 - 📫 How to reach me **cumalitezcan@gmail.com**
