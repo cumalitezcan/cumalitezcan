@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cumali Tezcan</h1>
-<h3 align="center">A passionate frontend developer candidate</h3>
+<h3 align="center">Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cumalitezcan&label=Profile%20views&color=0e75b6&style=flat" alt="cumalitezcan" /> </p>
 
-- 🔭 I’m currently working on **Patika.dev & Reengen** bootcamp projects
-
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 I’m currently learning **Vue Js && React Js**
 
 - 📫 How to reach me **cumalitezcan@gmail.com**
 
